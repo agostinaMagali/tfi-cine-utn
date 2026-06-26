@@ -7,6 +7,7 @@
 * Medina Agostina Magali (Legajo 27867, Comisión 1.4)
 * Integrante 2 (Legajo XXXXX, Comisión X)
 * Integrante 3 (Legajo XXXXX, Comisión X)
+* Integrante 4 (Legajo XXXXX, Comisión X)
 
 ## 📝 Descripción General del Sistema
 Este sistema interactivo ejecutado por consola permite administrar de manera completa las reservas de entradas de un complejo cinematográfico para las películas: *Toy Story 5*, *Scary Movie 6* y *El Diablo Viste a la Moda 2*. 
