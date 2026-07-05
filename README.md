@@ -5,7 +5,7 @@
 
 ## 👥 Integrantes del Grupo
 * Medina Agostina Magali (Legajo 27867, Comisión 1.4)
-* Integrante 2 (Legajo XXXXX, Comisión X)
+* Fretes, Lara Agustina (Legajo 28729, Comisión 1.4)
 * Integrante 3 (Legajo XXXXX, Comisión X)
 * Integrante 4 (Legajo XXXXX, Comisión X)
 
