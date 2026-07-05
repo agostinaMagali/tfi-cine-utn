@@ -4,10 +4,10 @@
 **Escenario Asignado:** Escenario 2 - Sistema de reservas de cine
 
 ## 👥 Integrantes del Grupo
-* Medina Agostina Magali (Legajo 27867, Comisión 1.4)
-* Integrante 2 (Legajo XXXXX, Comisión X)
-* Integrante 3 (Legajo XXXXX, Comisión X)
-* Integrante 4 (Legajo XXXXX, Comisión X)
+* Medina, Agostina Magali (Legajo 27867, Comisión 1.4)
+* Fretes, Lara Agustina (Legajo 28729, Comisión 1.4)
+* Muñoz Cipettini, Sebastián (Legajo 26989, Comisión 1.4)
+* Integrante 4 (Legajo XXXXX, Comisión 1.4)
 
 ## 📝 Descripción General del Sistema
 Este sistema interactivo ejecutado por consola permite administrar de manera completa las reservas de entradas de un complejo cinematográfico para las películas: *Toy Story 5*, *Scary Movie 6* y *El Diablo Viste a la Moda 2*. 
